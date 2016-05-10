@@ -1,6 +1,6 @@
 {
   "name": "xssproxy",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Cross the intranet via XSS.",
   "keywords": [
     "xss"
