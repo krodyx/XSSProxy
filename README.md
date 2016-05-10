@@ -1,6 +1,6 @@
 # XSSProxy (Alpha version)
 
-  Cross the intranet via XSS.
+  A XSS based reverse proxy,be used for cross the intranet via XSS.
 
 ## Install
 `npm install -g xssproxy`
